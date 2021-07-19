@@ -1,0 +1,8 @@
+.jobs {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+
+}

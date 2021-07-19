@@ -1,0 +1,9 @@
+.header {
+    background-color: rgb(45, 53, 82);
+    color: aliceblue;
+    text-transform: capitalize;
+    height: 10vh;
+    text-align: center;
+    padding-top: 0.5rem;
+    font-size: 1.4rem;
+}
